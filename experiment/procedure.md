@@ -1,6 +1,6 @@
 <div style="font-family: 'Nunito Sans', sans-serif; font-size: 20px;text-align: justify;">
 
-## Awareness About Biomedical Signals, Their Types and Significance:
+
 
 <b>STEP 1</b>: The aim of this experiment is to get familiarized with the biomedical systems.
 <br>

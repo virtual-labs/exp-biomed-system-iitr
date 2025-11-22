@@ -1,5 +1,5 @@
 <div style="font-family: 'Nunito Sans', sans-serif; font-size: 20px;text-align: justify;" >
-<h2>Theory</h2>
+
 <h4>Introduction to Biomedical System</h4>
 
 A biomedical system is an integrated setup of instruments and devices designed to safely measure, process, and present physiological information from the human body. These systems capture the body's electrical, mechanical, or chemical activities through sensors and transducers, and convert them into electrical signals. The signals are then conditioned, processed, and transformed into digital data that can be displayed, stored, or transmitted. By providing reliable and interpretable information, biomedical systems play a crucial role in medical diagnosis, patient monitoring, therapy control, and clinical decision-making.<br>
