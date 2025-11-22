@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To study the components and working of a biomedical system used for monitoring signals like ECG, EEG, and EMG.
