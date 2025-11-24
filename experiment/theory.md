@@ -48,7 +48,7 @@ In biomedical systems, electrodes act as specific transducers for recording biop
 Electrodes used to measure bioelectric potentials near or within a single cell.
 
 
-<center><img src="images/microElectrode.png" style="width: auto; height: 400px; mix-blend-mode: darken"></center><br>
+<center><img src="images/microElectrode.png" style="width: auto; height: 200px; mix-blend-mode: darken"></center><br>
 <center><b>Figure-2: Structure of a metal microelectrode for intracellular recordings.</b></center><br>
 
 
